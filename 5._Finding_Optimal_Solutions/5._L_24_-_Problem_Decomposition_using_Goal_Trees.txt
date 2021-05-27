@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-20T09:16:47+05:30
+
+====== 5. L 24 - Problem Decomposition using Goal Trees ======
+Created Tuesday 20 October 2020
+
+Two ways to make search trees efficient:
+1. Dependency Directed BackTracking - early identification of a wrong option, this eliminates whole branches.
+2. AND/OR graphs - Goal trees
+{{./pasted_image.png}}
+--------------------
+**Goal Trees**
+* arc represents AND, i.e all the children are necessary.
+* non-arcs represent OR, i.e only one of the children is necessary
+
+* In contrast to OR only tree(where the solution is a path), goal tree solutions are subtrees.
+{{./pasted_image001.png}}
+* Formulation in goal trees is more succinct, and is parallelizable.
+* Leaf nodes are called solved nodes.

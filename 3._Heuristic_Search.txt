@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-09T04:25:20+05:30
+
+====== 3. Heuristic Search ======
+Created Friday 09 October 2020
+
