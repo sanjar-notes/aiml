@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-20T10:35:47+05:30
-
-====== 6. Game Playing ======
-Created Tuesday 20 October 2020
-
